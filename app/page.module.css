@@ -166,3 +166,8 @@ a.secondary {
     filter: invert();
   }
 }
+html {
+  zoom: 100%;
+  transform: scale(1);
+  transform-origin: 0 0;
+}
